@@ -1,0 +1,3 @@
+rax = 60
+rdi = 16
+rdi^rdi
